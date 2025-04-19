@@ -40,10 +40,12 @@
 		</div>
 	</div>
 	<div class="bg-olive-medium flex w-1/4 items-center justify-center">
-		<button
+		<a
+			href="#contact"
 			class="bg-olive-dark text-olive-light pointer-cursor px-16 py-4 font-light tracking-widest shadow-lg transition ease-in-out hover:scale-105"
-			>{$currentTranslations.bannerButton}</button
 		>
+			{$currentTranslations.bannerButton}
+		</a>
 	</div>
 </section>
 
@@ -76,9 +78,11 @@
 		<p class="text-olive-dark max-w-108 pl-1 font-light text-wrap">
 			{$currentTranslations.bannerContent}
 		</p>
-		<button
+		<a
+			href="#contact"
 			class="bg-olive-dark text-olive-light pointer-cursor px-16 py-4 font-light tracking-widest shadow-lg transition ease-in-out hover:scale-105"
-			>{$currentTranslations.bannerButton}</button
 		>
+			{$currentTranslations.bannerButton}
+		</a>
 	</div>
 </section>
