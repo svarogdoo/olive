@@ -1,0 +1,10 @@
+@import "tailwindcss";
+/* @import "./typography.css"; */
+
+@theme {
+  --color-olive-light: #fbf3ec;
+  --color-olive-medium: #ece2da;
+  --color-olive-meddark: #806f5e;
+  --color-olive-olive: #b6aa00;
+  --color-olive-dark: #4b3821
+}
