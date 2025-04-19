@@ -8,3 +8,7 @@
   --color-olive-olive: #b6aa00;
   --color-olive-dark: #4b3821
 }
+
+html {
+  scroll-behavior: smooth;
+}

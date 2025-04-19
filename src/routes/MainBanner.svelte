@@ -42,7 +42,7 @@
 	<div class="bg-olive-medium flex w-1/4 items-center justify-center">
 		<a
 			href="#contact"
-			class="bg-olive-dark text-olive-light pointer-cursor px-16 py-4 font-light tracking-widest shadow-lg transition ease-in-out hover:scale-105"
+			class="bg-olive-dark text-olive-light pointer-cursor px-16 py-4 text-center font-light tracking-widest shadow-lg transition ease-in-out hover:scale-105"
 		>
 			{$currentTranslations.bannerButton}
 		</a>
@@ -80,7 +80,7 @@
 		</p>
 		<a
 			href="#contact"
-			class="bg-olive-dark text-olive-light pointer-cursor px-16 py-4 font-light tracking-widest shadow-lg transition ease-in-out hover:scale-105"
+			class="bg-olive-dark text-olive-light pointer-cursor px-16 py-4 text-center font-light tracking-widest shadow-lg transition ease-in-out hover:scale-105"
 		>
 			{$currentTranslations.bannerButton}
 		</a>
