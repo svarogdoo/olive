@@ -7,8 +7,8 @@ export const translations: Record<string, Translations> = {
 			'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
 		contact: 'Get in touch with us',
 		contactTitle: 'Contact',
-		bannerTitle1: 'Handmade',
-		bannerTitle2: 'Olive oil',
+		bannerTitle1: 'Hand Crafted',
+		bannerTitle2: 'Olive Oil',
 		bannerContent:
 			'Produced in Trebinje. Produced in Trebinje. Produced in Trebinje. Produced in Trebinje. Produced in Trebinje.',
 		bannerText1: 'Produced annualy',

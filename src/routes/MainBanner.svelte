@@ -48,12 +48,14 @@
 </section>
 
 <section class="relative flex w-full flex-col md:hidden">
-	<div class="from-olive-medium to-olive-light flex w-full flex-col bg-gradient-to-r px-4 py-12">
+	<div
+		class="from-olive-medium to-olive-light flex w-full flex-col bg-gradient-to-r px-4 pt-28 pb-12"
+	>
 		<h1 class="text-olive-dark w-20 pl-4 text-3xl leading-relaxed font-bold text-wrap">
 			{$currentTranslations.bannerTitle1}<br />{$currentTranslations.bannerTitle2}
 		</h1>
-		<img src={oliveBgLeft} alt="Background" class="-my-40 h-[400px] w-auto object-contain" />
-		<div class="text-olive-dark mt-52 flex gap-x-8 bg-gradient-to-r text-center">
+		<img src={oliveBgLeft} alt="Background" class="-my-60 h-[400px] w-auto object-contain" />
+		<div class="text-olive-dark mt-76 flex justify-center gap-x-8 bg-gradient-to-r text-center">
 			<div class="flex flex-col">
 				<p class="text-2xl font-bold">14t</p>
 				<p class="text-md font-light">{$currentTranslations.bannerText1}</p>

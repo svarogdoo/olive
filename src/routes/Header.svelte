@@ -6,7 +6,7 @@
 <header
 	class="bg-olive-light text-olive-dark flex w-full items-center justify-between px-5 py-4 md:justify-around"
 >
-	<img src="Logo" alt="Humac" />
+	<p class="tracking-widest italic">HUMAC</p>
 	<ul class="flex gap-x-4 lg:gap-x-12">
 		<a href="#about">{$currentTranslations.aboutTitle}</a>
 		<a href="#contact">{$currentTranslations.contactTitle}</a>
