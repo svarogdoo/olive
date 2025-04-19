@@ -22,10 +22,10 @@
 	}
 </script>
 
-<div class="text-olive-dark flex justify-end p-4">
+<div class="text-olive-dark flex justify-end">
 	<div class="relative inline-block text-left">
 		<button
-			class="bg-olive-light inline-flex w-full items-center justify-center rounded-md border border-gray-300 px-4 py-2 text-sm font-medium shadow-sm hover:bg-gray-50"
+			class="bg-olive-light inline-flex w-full items-center justify-center rounded-md border border-gray-300 px-2 py-1 text-sm font-medium shadow-sm hover:bg-gray-50 md:px-4 md:py-2"
 			on:click={() => (dropdownOpen = !dropdownOpen)}
 		>
 			{#each languages as lang (lang.code)}

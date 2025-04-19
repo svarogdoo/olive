@@ -3,11 +3,13 @@
 	import LanguageDropdown from './LanguageDropdown.svelte';
 </script>
 
-<header class="bg-olive-light text-olive-dark flex w-full items-center justify-around px-3 py-3">
+<header
+	class="bg-olive-light text-olive-dark flex w-full items-center justify-between px-5 py-4 md:justify-around"
+>
 	<img src="Logo" alt="Humac" />
-	<ul class="flex gap-x-4">
-		<li>{$currentTranslations.aboutTitle}</li>
-		<li>{$currentTranslations.contactTitle}</li>
+	<ul class="flex gap-x-4 lg:gap-x-12">
+		<a href="#about">{$currentTranslations.aboutTitle}</a>
+		<a href="#contact">{$currentTranslations.contactTitle}</a>
 	</ul>
 	<LanguageDropdown />
 </header>
