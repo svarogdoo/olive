@@ -11,9 +11,9 @@
 	let dropdownOpen = false;
 	const languages: Language[] = [
 		{ code: 'en', label: 'EN', flag: '🇬🇧' },
-		{ code: 'sr', label: 'SRB', flag: '🇷🇸' },
-		{ code: 'bs', label: 'BIH', flag: '🇧🇦' },
-		{ code: 'hr', label: 'HR', flag: '🇭🇷' }
+		// { code: 'sr', label: 'SRB', flag: '🇷🇸' },
+		{ code: 'bs', label: 'BIH', flag: '🇧🇦' }
+		// { code: 'hr', label: 'HR', flag: '🇭🇷' }
 	];
 
 	function selectLanguage(code: string) {

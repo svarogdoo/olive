@@ -3,6 +3,8 @@ export const translations: Record<string, Translations> = {
 		welcome: 'Welcome to our website!',
 		about: 'Learn more about us',
 		aboutTitle: 'About us',
+		aboutContent:
+			'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
 		contact: 'Get in touch with us',
 		contactTitle: 'Contact',
 		bannerTitle1: 'Handmade',
@@ -14,40 +16,12 @@ export const translations: Record<string, Translations> = {
 		bannerText3: 'Handmade',
 		bannerButton: 'Order'
 	},
-	sr: {
-		welcome: 'Dobrodošli na našu web stranicu!',
-		about: 'Saznajte više o nama',
-		aboutTitle: 'O nama',
-		contact: 'Kontaktirajte nas',
-		contactTitle: 'Kontakt',
-		bannerTitle1: 'Ručno pravljeno',
-		bannerTitle2: 'maslinovo ulje',
-		bannerContent:
-			'Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju.',
-		bannerText1: 'Proizvedeno godišnje',
-		bannerText2: 'Maslina',
-		bannerText3: 'Ručna proizvodnja',
-		bannerButton: 'Naruči'
-	},
 	bs: {
 		welcome: 'Dobrodošli na našu web stranicu!',
 		about: 'Saznajte više o nama',
 		aboutTitle: 'O nama',
-		contact: 'Kontaktirajte nas',
-		contactTitle: 'Kontakt',
-		bannerTitle1: 'Ručno pravljeno',
-		bannerTitle2: 'maslinovo ulje',
-		bannerContent:
-			'Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju. Maslinovo ulje proizvedeno u Trebinju.',
-		bannerText1: 'Proizvedeno godišnje',
-		bannerText2: 'Maslina',
-		bannerText3: 'Ručna proizvodnja',
-		bannerButton: 'Naruči'
-	},
-	hr: {
-		welcome: 'Dobrodošli na našu web stranicu!',
-		about: 'Saznajte više o nama',
-		aboutTitle: 'O nama',
+		aboutContent:
+			'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
 		contact: 'Kontaktirajte nas',
 		contactTitle: 'Kontakt',
 		bannerTitle1: 'Ručno pravljeno',

@@ -12,6 +12,7 @@ declare global {
 		welcome: string;
 		about: string;
 		aboutTitle: string;
+		aboutContent: string;
 		contact: string;
 		contactTitle: string;
 		bannerTitle1: string;
